@@ -79,3 +79,11 @@
 - explorer [file] or explorer .
 
   opens a file or opens file explorer in the current directory
+
+## VIM Commands
+- Esc :w
+
+  save
+- Esc :x
+
+  quit
