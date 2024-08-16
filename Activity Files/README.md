@@ -67,6 +67,9 @@
 - touch [file]
 
   create an empty file
+- echo "text" > [file]
+
+  adds line of text into file (add another > to add text to second line, etc.)
 - cat [file]
 
   view the contents of a file
