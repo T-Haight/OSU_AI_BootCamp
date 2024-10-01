@@ -45,7 +45,7 @@
 ## Linux Commands
 - ls 
 
-  list files and directories (-l: long format, -a: includes hidden files, -h: human readable file sizes)
+  list files and directories (-l: long format, -a: includes hidden files, -h: human readable file sizes, -lhtr: size date info.)
 - cd [path] or cd ~ or cd ..
 
   change current directory to specified path, home directory for user, or up one directory level
